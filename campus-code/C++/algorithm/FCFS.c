@@ -40,7 +40,7 @@ int main(){
 	insert_pcb(pcb5,list);
 	insert_pcb(pcb6,list);
 	fcfs(list);
-	return 2;
+    return 1;
 	
 }
 				
